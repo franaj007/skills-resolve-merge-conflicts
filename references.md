@@ -1,1 +1,5 @@
-some text that confilcts
+
+# References
+
+* octocat 1 😈
+
